@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Portfolio website coming soon
         </a>
       </header>
     </div>
